@@ -11,6 +11,7 @@ public class DemoTest4 {
 		String city = "Raleigh";
 		
 		System.out.println("This is just a test - Pushing this Code to Github");
+		System.out.println(country +" "+ city);
 
 	}
 
